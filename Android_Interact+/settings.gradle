@@ -1,0 +1,2 @@
+include ':launcher', ':unityLibrary'
+rootProject.name='Android_Interact+'

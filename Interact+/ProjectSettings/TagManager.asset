@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dwell
+  - Despawnable
+  - Ground
+  - Pointer
+  - Mode
+  - Button
+  - UI_Background
+  - UI_Target
+  - RotateBtn
+  - ScaleBtn
+  - AccuracyStartBtn
+  - AccuracyEndBtn
+  - OkGestureApproach
+  - FiveGestureApproach
+  - AccuracyContinueBtn
+  - FurnitureIcon
+  - GestureBtn
+  - GazeBtn
+  - TrainingStartBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
